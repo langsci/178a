@@ -1,0 +1,439 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax
+\defcounter {refsection}{0}\relax
+\select@language {english}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\nonumberline Acknowledgments}{vii}{chapter*.2}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\nonumberline Abstract}{ix}{chapter*.3}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {1.1}Aims of the study}{1}{section.1.1}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {1.2}Background}{3}{section.1.2}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {1.3}Methodology}{4}{section.1.3}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {1.4}Overview}{5}{section.1.4}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {2}Background}{7}{chapter.2}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {2.1}Introduction}{7}{section.2.1}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {2.2}Topic}{7}{section.2.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {2.2.1}The definition of topic in this dissertation}{8}{subsection.2.2.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {2.2.2}Aboutness}{10}{subsection.2.2.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {2.2.3}Evokedness}{12}{subsection.2.2.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {2.2.4}Subject}{13}{subsection.2.2.4}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {2.2.5}Sentence-initial elements}{14}{subsection.2.2.5}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {2.3}Focus}{14}{section.2.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {2.3.1}The definition of focus in this dissertation}{14}{subsection.2.3.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {2.3.2}Newness}{16}{subsection.2.3.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {2.3.3}Contrastiveness}{17}{subsection.2.3.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {2.3.4}Pitch peak}{18}{subsection.2.3.4}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {2.4}Characteristics of Japanese}{19}{section.2.4}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {2.4.1}General characteristics}{19}{subsection.2.4.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {2.4.2}Particles}{21}{subsection.2.4.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {2.4.2.1}Case particles vs.~adverbial particles}{22}{subsubsection.2.4.2.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {2.4.2.2}\textit {Ga}}{23}{subsubsection.2.4.2.2}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.2.2.1}Exhaustive listing vs.~neutral description}{23}{paragraph.2.4.2.2.1}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.2.2.2}\textit {Ga} as focus marker}{24}{paragraph.2.4.2.2.2}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.2.2.3}Remaining issues}{25}{paragraph.2.4.2.2.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {2.4.2.3}\textit {O}}{26}{subsubsection.2.4.2.3}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.2.3.1}Remaining issues}{26}{paragraph.2.4.2.3.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {2.4.2.4}\textit {Wa}}{26}{subsubsection.2.4.2.4}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.2.4.1}Givenness}{27}{paragraph.2.4.2.4.1}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.2.4.2}Generic \textit {wa}}{28}{paragraph.2.4.2.4.2}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.2.4.3}Contrastive \textit {wa}}{29}{paragraph.2.4.2.4.3}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.2.4.4}Characterization of \textit {wa} based on judgement types}{30}{paragraph.2.4.2.4.4}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.2.4.5}Cohesion}{31}{paragraph.2.4.2.4.5}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.2.4.6}Isolation}{32}{paragraph.2.4.2.4.6}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.2.4.7}Remaining issues}{32}{paragraph.2.4.2.4.7}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {2.4.2.5}\textit {Toiuno-wa}}{33}{subsubsection.2.4.2.5}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.2.5.1}Basic usage}{34}{paragraph.2.4.2.5.1}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.2.5.2}Characterization of \textit {toiuno-wa} based on predication types}{35}{paragraph.2.4.2.5.2}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.2.5.3}Remaining issue}{36}{paragraph.2.4.2.5.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {2.4.2.6}\textit {Kedo} and \textit {ga}}{36}{subsubsection.2.4.2.6}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.2.6.1}Remaining issue}{37}{paragraph.2.4.2.6.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {2.4.2.7}Zero particle}{37}{subsubsection.2.4.2.7}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.2.7.1}Socio-linguistic factors}{38}{paragraph.2.4.2.7.1}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.2.7.2}Word and sentence length}{38}{paragraph.2.4.2.7.2}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.2.7.3}Contrast and narrow focus}{39}{paragraph.2.4.2.7.3}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.2.7.4}Word order}{41}{paragraph.2.4.2.7.4}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.2.7.5}Types of predicates}{42}{paragraph.2.4.2.7.5}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.2.7.6}Types of nouns}{43}{paragraph.2.4.2.7.6}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.2.7.7}Other pragmatic factors}{45}{paragraph.2.4.2.7.7}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.2.7.8}Remaining issues}{46}{paragraph.2.4.2.7.8}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {2.4.3}Word order}{46}{subsection.2.4.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {2.4.3.1}Basic word order}{48}{subsubsection.2.4.3.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {2.4.3.2}Clause-initial elements}{49}{subsubsection.2.4.3.2}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.3.2.1}Topic}{49}{paragraph.2.4.3.2.1}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.3.2.2}Weight}{50}{paragraph.2.4.3.2.2}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.3.2.3}Remaining issue}{50}{paragraph.2.4.3.2.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {2.4.3.3}Post-predicate elements}{50}{subsubsection.2.4.3.3}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.3.3.1}Afterthought}{51}{paragraph.2.4.3.3.1}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.3.3.2}Non-focus}{51}{paragraph.2.4.3.3.2}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.3.3.3}Emphasis}{52}{paragraph.2.4.3.3.3}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.3.3.4}Activation cost}{53}{paragraph.2.4.3.3.4}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.3.3.5}Preferred interactional structure}{53}{paragraph.2.4.3.3.5}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.3.3.6}Remaining issue}{55}{paragraph.2.4.3.3.6}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {2.4.3.4}Pre-predicate elements}{55}{subsubsection.2.4.3.4}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.3.4.1}Unaccusativity}{55}{paragraph.2.4.3.4.1}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.3.4.2}Focus}{57}{paragraph.2.4.3.4.2}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.3.4.3}Remaining issue}{57}{paragraph.2.4.3.4.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {2.4.4}Intonation}{58}{subsection.2.4.4}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {2.4.4.1}Definition of Intonation unit}{58}{subsubsection.2.4.4.1}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.4.1.1}X-JToBI and intonational phrase}{58}{paragraph.2.4.4.1.1}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.4.1.2}Intonation unit}{59}{paragraph.2.4.4.1.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {2.4.4.2}Intonation unit and related phenomena}{60}{subsubsection.2.4.4.2}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.4.2.1}Prominence and downstepping}{60}{paragraph.2.4.4.2.1}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.4.2.2}Focus projection}{61}{paragraph.2.4.4.2.2}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.4.2.3}Functional and cognitive motivations for intonation unit}{63}{paragraph.2.4.4.2.3}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {2.4.4.2.4}Remaining issues}{65}{paragraph.2.4.4.2.4}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {2.4.4.3}Pause}{65}{subsubsection.2.4.4.3}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {2.5}Summary}{66}{section.2.5}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {3}Framework}{67}{chapter.3}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {3.1}Introduction}{67}{section.3.1}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {3.2}Conceptual space and semantic map}{68}{section.3.2}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {3.3}Topic, focus, and correlating features}{70}{section.3.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {3.3.1}Topic}{70}{subsection.3.3.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {3.3.2}Focus}{73}{subsection.3.3.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {3.3.3}Information structure in a sentence}{74}{subsection.3.3.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {3.3.4}Other features correlating with topic/focus}{76}{subsection.3.3.4}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {3.3.4.1}Activation cost}{77}{subsubsection.3.3.4.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {3.3.4.2}Definiteness}{78}{subsubsection.3.3.4.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {3.3.4.3}Specificity}{79}{subsubsection.3.3.4.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {3.3.4.4}Animacy}{81}{subsubsection.3.3.4.4}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {3.3.4.5}Agentivity}{81}{subsubsection.3.3.4.5}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {3.3.4.6}Inferability}{81}{subsubsection.3.3.4.6}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {3.4}Methodology}{82}{section.3.4}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {3.4.1}Topic and focus in acceptability judgements}{82}{subsection.3.4.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {3.4.2}Assumptions in experiments}{84}{subsection.3.4.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {3.4.3}Corpus annotation and analysis}{84}{subsection.3.4.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {3.4.3.1}Corpus}{85}{subsubsection.3.4.3.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {3.4.3.2}Annotation of anaphoric relations}{86}{subsubsection.3.4.3.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {3.4.3.3}Annotation of topichood and focushood}{88}{subsubsection.3.4.3.3}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {3.4.3.3.1}Approximation to given-new taxonomy}{88}{paragraph.3.4.3.3.1}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {3.4.3.3.2}Grammatical function}{88}{paragraph.3.4.3.3.2}
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\numberline {3.4.3.3.3}Other features}{89}{paragraph.3.4.3.3.3}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {3.5}Summary}{89}{section.3.5}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {4}Particles}{91}{chapter.4}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {4.1}Introduction}{91}{section.4.1}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {4.2}So-called topic particles}{92}{section.4.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {4.2.1}\textit {Toiuno-wa}}{99}{subsection.4.2.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {4.2.1.1}Evoked elements tend to be coded by \textit {toiuno-wa}}{99}{subsubsection.4.2.1.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {4.2.1.2}Declining or inferable elements tend not to be coded by \textit {toiuno-wa}}{102}{subsubsection.4.2.1.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {4.2.1.3}Further characteristics of \textit {toiuno-wa}-coded elements}{106}{subsubsection.4.2.1.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {4.2.2}\textit {Wa}}{106}{subsection.4.2.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {4.2.2.1}Evoked and inferable elements tend to be coded by \textit {wa}}{107}{subsubsection.4.2.2.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {4.2.2.2}So-called contrastive \textit {wa}}{110}{subsubsection.4.2.2.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {4.2.2.3}Declining and unused elements tend not to be coded by \textit {wa}}{111}{subsubsection.4.2.2.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {4.2.3}Copula followed by \textit {ga} or \textit {kedo}}{113}{subsection.4.2.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {4.2.3.1}Evoked and inferable elements cannot be coded by copula followed by \textit {ga} or \textit {kedo}}{113}{subsubsection.4.2.3.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {4.2.3.2}Declining and unused elements can be coded by copula followed by \textit {ga} or \textit {kedo}}{114}{subsubsection.4.2.3.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {4.2.3.3}Further analysis of copula followed by \textit {ga} or \textit {kedo}}{116}{subsubsection.4.2.3.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {4.2.4}\O $_{t}$}{118}{subsection.4.2.4}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {4.2.4.1}Evoked, inferable, declining, and unused elements can be coded by {\O $_{t}$}}{121}{subsubsection.4.2.4.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {4.2.4.2}Difference between {\O $_{t}$} and explicit forms}{122}{subsubsection.4.2.4.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {4.2.5}Summary of topic markers}{123}{subsection.4.2.5}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {4.3}Case markers}{125}{section.4.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {4.3.1}\textit {Ga}}{127}{subsection.4.3.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {4.3.1.1}\textit {Ga} coding focus A}{127}{subsubsection.4.3.1.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {4.3.1.2}\textit {Ga} coding focus S}{127}{subsubsection.4.3.1.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {4.3.1.3}\textit {Ga} coding animate elements?}{129}{subsubsection.4.3.1.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {4.3.1.4}\textit {Ga} coding non-nominative focus}{130}{subsubsection.4.3.1.4}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {4.3.2}\textit {O}}{132}{subsection.4.3.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {4.3.2.1}\textit {O} coding focus P}{132}{subsubsection.4.3.2.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {4.3.3}\O $_{f}$}{132}{subsection.4.3.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {4.3.4}Summary of case markers}{133}{subsection.4.3.4}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {4.4}So-called subjects}{133}{section.4.4}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {4.4.1}Subject and topic}{133}{subsection.4.4.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {4.4.2}Hierarchy of topic-coding}{136}{subsection.4.4.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {4.4.3}Ex or detached NPs}{139}{subsection.4.4.3}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {4.5}Discussion}{142}{section.4.5}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {4.5.1}Distribution of markers and semantic space}{142}{subsection.4.5.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {4.5.2}Distribution of markers and markedness}{144}{subsection.4.5.2}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {4.6}Summary}{146}{section.4.6}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {4.6.1}Summary of this chapter}{146}{subsection.4.6.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {4.6.2}Remaining issues}{146}{subsection.4.6.2}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {5}Word Order}{147}{chapter.5}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {5.1}Introduction}{147}{section.5.1}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {5.2}Clause-initial elements}{149}{section.5.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {5.2.1}Shared elements tend to appear clause-initially}{150}{subsection.5.2.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {5.2.1.1}Topic-coded elements appear clause-initially}{157}{subsubsection.5.2.1.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {5.2.1.2}Pronouns appear clause-initially}{162}{subsubsection.5.2.1.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {5.2.1.3}Unused elements appear clause-initially}{165}{subsubsection.5.2.1.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {5.2.2}Persistent elements tend to appear clause-initially}{167}{subsection.5.2.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {5.2.3}Motivations for topics appearing clause-initially}{169}{subsection.5.2.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {5.2.4}Summary of clause-initial elements}{180}{subsection.5.2.4}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {5.3}Post-predicate elements}{181}{section.5.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {5.3.1}Strongly evoked elements appear after predicate}{181}{subsection.5.3.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {5.3.2}Motivations for topics to appear post-predicatively}{189}{subsection.5.3.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {5.3.2.1}Low activation cost and general characteristics of intonation unit}{189}{subsubsection.5.3.2.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {5.3.2.2}Why post-predicate construction mainly appears in dialogue and the source of ``emotive'' usage}{190}{subsubsection.5.3.2.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {5.3.2.3}Post-predicate elements with double-contour type}{193}{subsubsection.5.3.2.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {5.3.3}Summary of post-predicate elements}{196}{subsection.5.3.3}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {5.4}Pre-predicate elements}{196}{section.5.4}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {5.4.1}New elements appear right before predicate}{196}{subsection.5.4.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {5.4.2}Motivations for focus to appear close to predicate}{200}{subsection.5.4.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {5.4.3}Summary of pre-predicate elements}{203}{subsection.5.4.3}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {5.5}Discussion}{203}{section.5.5}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {5.5.1}Possible confounding effects}{204}{subsection.5.5.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {5.5.2}Giv\'on's topicality hierarchy and word order}{206}{subsection.5.5.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {5.5.3}Information structure and word order typology}{208}{subsection.5.5.3}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {5.6}Summary}{212}{section.5.6}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {5.6.1}Summary of this chapter}{212}{subsection.5.6.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {5.6.2}Remaining issues}{213}{subsection.5.6.2}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {6}Intonation}{215}{chapter.6}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {6.1}Introduction}{215}{section.6.1}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {6.2}IU and IS unit: corpus study}{216}{section.6.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {6.2.1}Topics tend to be uttered in phrasal IUs}{219}{subsection.6.2.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {6.2.1.1}Evoked, inferable, and declining elements with topic markers in phrasal IUs}{220}{subsubsection.6.2.1.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {6.2.1.2}Unused elements with topic markers in phrasal IUs}{223}{subsubsection.6.2.1.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {6.2.1.3}Strongly evoked elements in clausal IUs}{224}{subsubsection.6.2.1.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {6.2.1.4}Elements with topic markers in clausal IUs}{226}{subsubsection.6.2.1.4}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {6.2.2}Foci tend to be uttered in clausal IUs}{232}{subsection.6.2.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {6.2.2.1}\textit {Ga}-coded S and \textit {o}-coded P that appear in clausal IUs}{232}{subsubsection.6.2.2.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {6.2.2.2}\textit {Ga}-coded S and \textit {o}-coded P that appear in phrasal IUs}{236}{subsubsection.6.2.2.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {6.2.3}Summary of corpus study}{242}{subsection.6.2.3}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {6.3}IU and IS unit: experimental study}{243}{section.6.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {6.3.1}Method}{243}{subsection.6.3.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {6.3.1.1}Stimuli}{243}{subsubsection.6.3.1.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {6.3.1.2}Experimental procedure}{244}{subsubsection.6.3.1.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {6.3.1.3}Coding process}{244}{subsubsection.6.3.1.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {6.3.2}Results}{245}{subsection.6.3.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {6.3.3}Summary of experimental study}{249}{subsection.6.3.3}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {6.4}Discussion}{249}{section.6.4}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {6.4.1}Principles of intonation unit, information structure, and activation cost}{249}{subsection.6.4.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {6.4.2}Principle of the separation of reference and role}{251}{subsection.6.4.2}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {6.5}Summary}{252}{section.6.5}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {6.5.1}Summary of this chapter}{252}{subsection.6.5.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {6.5.2}Remaining issues}{253}{subsection.6.5.2}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {7}Discussion}{255}{chapter.7}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {7.1}Summary of findings}{255}{section.7.1}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {7.2}Competing motivations}{258}{section.7.2}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {7.3}Languages with hard constraints}{261}{section.7.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {7.3.1}Elements glued to the predicate}{262}{subsection.7.3.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {7.3.1.1}Affixation of pronouns}{262}{subsubsection.7.3.1.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\numberline {7.3.1.2}Noun incorporation}{264}{subsubsection.7.3.1.2}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {7.3.2}Elements separated from the predicate}{269}{subsection.7.3.2}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {7.4}Summary}{271}{section.7.4}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {8}Conclusion}{273}{chapter.8}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {8.1}Summary}{273}{section.8.1}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {8.2}Theoretical and methodological implications}{273}{section.8.2}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {8.3}Remaining issues}{274}{section.8.3}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {8.3.1}Predication or judgement types}{274}{subsection.8.3.1}
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\numberline {8.3.2}Genres}{276}{subsection.8.3.2}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\nonumberline References}{277}{chapter*.129}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Index}{299}{section*.130}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{Name index}{299}{section*.131}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{Language index}{305}{section*.132}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{Subject index}{305}{section*.133}
