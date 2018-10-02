@@ -535,7 +535,7 @@
 \renewcommand{\frontmatter}{}
 
 \null\newpage\thispagestyle{empty}
-\hypersetup{colorlinks=false, pdfborder={0 0 0}}  % for hyperref
+\hypersetup{colorlinks=false,citecolor=brown, pdfborder={0 0 0}}  % for hyperref
 \color{black}
 \lsInsideFont
 
